@@ -1,4 +1,6 @@
-# first-project# ☕ Coffee Sales Data Analysis Project
+# first-project# 
+
+☕ Coffee Sales Data Analysis Project
 
 Just completed my first end-to-end Data Analysis project — and the lessons started before I even built a single visual!
 
