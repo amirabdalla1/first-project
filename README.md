@@ -9,8 +9,16 @@ That moment reminded me how critical clean, well-structured data is before drawi
 
 ---
 
-##  Project Overview
-I built an interactive Power BI dashboard using a real coffee shop sales dataset to master the fundamentals of data analytics from raw data to actionable business insights.
+## Project Overview
+
+I built an interactive Power BI dashboard using a fictional coffee shop sales dataset to develop core data analytics skills—from raw data preparation to actionable business insights.
+
+### The dashboard answers:
+
+- How sales trend over time  
+- Which days of the week tend to be busiest  
+- Which products are sold most and least often  
+- Which products generate the highest revenue for the business  
 
 ---
 
@@ -46,15 +54,15 @@ I built an interactive Power BI dashboard using a real coffee shop sales dataset
 ##  Suggestions & Recommendations:
 
 ###  Peak Hours (8:00 – 10:00 AM)
-- **Reverse Happy Hour **  
+- Reverse Happy Hour   
   Introduce discounts and promotions after 10:00 AM to drive traffic during slower hours and maintain steady revenue throughout the day.
 
 ###  Day of the Week
-- **Weekly Loyalty Program **  
+- Weekly Loyalty Program   
   Reward customers who visit more than once per week with points or discounts to encourage repeat visits on slower days.
 
 ###  Top Products (Coffee, Tea & Bakery)
-- **Product of the Day 
+- Product of the Day 
   Highlight a featured product with a special price on low-traffic days to attract more customers.
 
 ---
